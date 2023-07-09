@@ -1,0 +1,13 @@
+.App2 {
+  font-family: sans-serif;
+  text-align: center;
+  background: linear-gradient(
+    72deg,
+    rgb(224, 209, 209) 1%,
+    rgb(89, 0, 255) 99%
+  );
+}
+h1 {
+  background-color: black;
+  color: aliceblue;
+}
